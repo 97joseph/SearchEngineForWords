@@ -1,0 +1,2 @@
+# SearchEngineForWords
+ Single words characterization
