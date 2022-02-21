@@ -2,6 +2,8 @@
 
  Single words characterization
 
+
+
 As software architects, your team is to architect a KWIC software system and implement it, which later will be used for a web search engine.
 
 **2. The KWIC* System**
