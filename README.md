@@ -2,9 +2,7 @@
 
  Single words characterization
 
-
-
-![alt text](image\README\1645427347601.png)
+vc![alt text](image\README\1645427347601.png)
 
 As software architects, your team is to architect a KWIC software system and implement it, which later will be used for a web search engine.
 
